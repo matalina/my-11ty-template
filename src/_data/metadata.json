@@ -1,0 +1,9 @@
+{
+  "title": "Template",
+  "url": "http://localhost",
+  "description": "Template",
+  "author": {
+    "name": "author",
+    "email": "admin@localhost"
+  }
+}
